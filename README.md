@@ -1,10 +1,14 @@
 ## Hello World! This is Evren! 👋
 
-I am a full stack developer with 20+ years of experience.
+- 👋 I'm a fullstack web developer with 20+ years of experience.
+- 📫 Questions and feedback are more than welcome!
 
-- 📫 Questions and feedback are more than welcome! Please send an email to hello@evrenbal.com
-- 📝 [Visit my portfolio](https://dev.evrenbal.com/)
-- 🌐 [Visit my blog](https://www.evrenbal.com) (In Turkish)
+## How to reach me
+[![Linkedin: benevrenbal](https://img.shields.io/badge/-benevrenbal-0077B5?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benevrenbal)](https://www.linkedin.com/in/benevrenbal/) [![GitHub evrenbal](https://img.shields.io/github/followers/evrenbal?label=follow&style=social)](http://github.com/evrenbal) [![Twitter: benevrenbal](https://img.shields.io/badge/-benevrenbal-1DA1F2?style=flat-rounded&logo=Twitter&logoColor=white&link=https://www.twitter.com/benevrenbal)](https://www.twitter.com/benevrenbal/)
+
+[![Mail](https://img.shields.io/badge/-hello@evrenbal.com-white?style=flat-rounded&logoColor=white&link=mailto:hello@evrenbal.com)](mailto:hello@evrenbal.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20(English)-white?style=flat-rounded&link=https://dev.evrenbal.com)](https://dev.evrenbal.com/)
+[![Blog](https://img.shields.io/badge/-Blog%20(Turkish)-white?style=flat-rounded&link=https://www.evrenbal.com)](https://www.evrenbal.com/)
 
 ### Frontend Interests
 
@@ -38,31 +42,8 @@ I am a full stack developer with 20+ years of experience.
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 
-
-## Follow me
-[![Linkedin: benevrenbal](https://img.shields.io/badge/-benevrenbal-0077B5?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benevrenbal)](https://www.linkedin.com/in/benevrenbal/) [![GitHub evrenbal](https://img.shields.io/github/followers/evrenbal?label=follow&style=social)](http://github.com/evrenbal) [![Twitter: benevrenbal](https://img.shields.io/badge/-benevrenbal-1DA1F2?style=flat-rounded&logo=Twitter&logoColor=white&link=https://www.twitter.com/benevrenbal)](https://www.twitter.com/benevrenbal/)
-
 [![Evren's github stats](https://github-readme-stats.vercel.app/api?username=evrenbal&theme=highcontrast&show_icons=true)](https://github.com/evrenbal/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evrenbal&theme=highcontrast)](https://github.com/evrenbal/github-readme-stats)
 
-Page view #
-
-![Visitor Count](https://profile-counter.glitch.me/evrenbal/count.svg)
-
-Last Update: 02.01.2021
-
-<!--
-**evrenbal/evrenbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Last update :02.01.2021](https://img.shields.io/badge/Last%20Update-02.01.2021-informational) ![Visitor Count](https://komarev.com/ghpvc/?username=evrenbal&color=red)
