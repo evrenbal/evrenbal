@@ -45,4 +45,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evrenbal&theme=highcontrast)](https://github.com/evrenbal/github-readme-stats)
 
-![Last update :02.01.2021](https://img.shields.io/badge/Last%20Update-02.01.2021-informational) ![Visitor Count](https://komarev.com/ghpvc/?username=evrenbal&color=red)
+![Last update :07.08.2022](https://img.shields.io/badge/Last%20Update-02.01.2021-informational) ![Visitor Count](https://komarev.com/ghpvc/?username=evrenbal&color=red)
