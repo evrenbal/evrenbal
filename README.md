@@ -11,26 +11,18 @@
 
 ### Frontend Interests
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/-Next.Js-black?style=flat-square&logo=Next.js)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=8946d6)
 ![VueJs](https://img.shields.io/badge/-Vue.Js-black?style=flat-square&logo=Vue.js)
 ![NuxtJs](https://img.shields.io/badge/-Nuxt.Js-black?style=flat-square&logo=Nuxt.js)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=f252a2)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=751aff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)
-![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=Bulma)
 
 ### Backend Interests
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![PhalconFramework](https://img.shields.io/badge/-Phalcon%20Framework-black?style=flat-square&logo=falcon)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=Codeigniter)
 ![.NET7](https://img.shields.io/badge/-.NET%207.0-black)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![GoFiber](https://img.shields.io/badge/-GoFiber-black?style=flat-square&logo=Go)
