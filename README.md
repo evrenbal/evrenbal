@@ -30,13 +30,13 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![PhalconFramework](https://img.shields.io/badge/-Phalcon%20Framework-black?style=flat-square&logo=falcon)
-![SlimFramework](https://img.shields.io/badge/-Slim%20Framework-black?style=flat-square)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=Codeigniter)
 ![.NET7](https://img.shields.io/badge/-.NET%207.0-black)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![GoFiber](https://img.shields.io/badge/-GoFiber-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+![Fastify](https://img.shields.io/badge/-Fastify-black?style=flat-qaure&logo=Fastify)
 
 ### Others
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=WordPress)
